@@ -19,8 +19,3 @@ Coding enthusiast from Florida. I only know Python, but I may consider learning 
 
 This account contains some repos for projects I have worked on. I don't maintain them that often.
 - View my Replit profile [here](https://replit.com/@Vomet).
-
-## Future Plans
-- [ ] Learn Raspberry Pi stuff (if I can get my hands on it)
-- [x] Book summary repo/blog (not quite sure on specifics yet)
-  - [ ] Get it working on GitHub pages.
