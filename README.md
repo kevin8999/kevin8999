@@ -21,7 +21,8 @@ I'm a Computer Science student passionate about technology, coding, and problem-
 
 ## Contact
 - **Email**: kevinduong306 [at] gmail [dot] com. (Replace `[at]` with `@` and `[dot]` with `.`)
-- **LinkedIn**: https://linkedin.com/in/kevinduong306
+- **LinkedIn**: https://linkedin.com/in/kevinvduong
+- **GitHub**: https://github.com/kevin8999
 
 ## Other Information
 <!--Profile Count Badge-->
