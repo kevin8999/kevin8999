@@ -26,6 +26,5 @@ I'm a Computer Science student passionate about technology, coding, and problem-
 
 ## Other Information
 <!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kevin8999&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
+
+<a href="https://u8views.com/github/kevin8999"><img src="https://u8views.com/api/v1/github/profiles/76125913/views/day-week-month-total-count.svg"></a>
