@@ -31,8 +31,6 @@ I currently have experience in:
 - **LinkedIn**: https://linkedin.com/in/kevinvduong
 - **GitHub**: https://github.com/kevin8999
 
-For my resume, please click [here](https://github.com/kevin8999/public-resume/blob/main/resume_public.pdf).
-
 ## Other Information
 <!--Profile Count Badge-->
 
