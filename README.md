@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 I'm a Computer Science student passionate about technology, coding, and problem-solving. I love exploring new programming languages and frameworks, and I'm always eager to learn more!
 
+I love working on open source projects, and I am always open to contributing to them!
+
 I currently have experience in:
 
 - Python
