@@ -19,13 +19,10 @@ Here are some ideas to get you started:
 
 I'm a Computer Science student passionate about technology, coding, and problem-solving. I love exploring new programming languages and frameworks, and I'm always eager to learn more!
 
-I love working on open source projects, and I am always open to contributing to them!
+## What I'm Up To
 
-I currently have experience in:
-
-- Python
-- C++
-- JavaScript
+- Maintaining [Bluelearn](https://bluelearn.org/), a structured knowledge pathway to learning anything!
+- Working on my home server (dotfiles coming soon!)
 
 ## Contact
 
