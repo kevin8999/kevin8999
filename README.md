@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 I'm a Computer Science student passionate about technology, coding, and problem-solving. I love exploring new programming languages and frameworks, and I'm always eager to learn more!
 
-## What I'm Up To
+## What I'm Up To 🚀
 
 - Maintaining [Bluelearn](https://bluelearn.org/), a structured knowledge pathway to learning anything!
-- Working on my home server (dotfiles coming soon!)
+- Building a self-hosted home server config that is deployable anywhere, configurable everywhere (dotfiles coming soon 👀)
 
-## Contact
+## Contact Me!
 
 - **Email**: kevinduong306 [at] gmail [dot] com. (Replace `[at]` with `@` and `[dot]` with `.`)
 - **LinkedIn**: https://linkedin.com/in/kevinvduong
